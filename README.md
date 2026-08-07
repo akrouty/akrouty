@@ -14,7 +14,6 @@ I enjoy building complete applications, from system design and backend developme
 
 ## 🚀 Current Focus
 
-- Java & Spring Boot
 - Angular
 - Software Architecture
 - Secure Web Applications
@@ -88,7 +87,6 @@ To be completed after project review.
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
